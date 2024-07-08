@@ -2,6 +2,9 @@
 /* CSS Document */
 
 /* || General setup */
+#my{
+  zoom: 110%;
+  }
 
 html, body {
   margin: 0;
